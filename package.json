@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "loadtest  https://interactpayroll.ey.com/cam -t 300 -c 50 --keepalive --rps 4000"
+    "test": "loadtest  https://www.iiests.ac.in/ -t 300 -c 50 --keepalive --rps 4000"
   },
   "keywords": [],
   "author": "",
